@@ -1,6 +1,4 @@
 # Configura-es.json
-Configuração para VSCode
-
 {
     "explorer.confirmDelete": false,
     "window.zoomLevel" : 0 ,
@@ -23,3 +21,4 @@ Configuração para VSCode
         "Red"
     ], 
 }
+
