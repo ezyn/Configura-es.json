@@ -1,4 +1,3 @@
-# Configura-es.json
 {
     "explorer.confirmDelete": false,
     "window.zoomLevel" : 0 ,
@@ -21,4 +20,3 @@
         "Red"
     ], 
 }
-
